@@ -10,7 +10,7 @@
 ## 💬 Languages:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cs,js,html,java" />
+    <img src="https://skillicons.dev/icons?i=py,cs,js,html" />
   </a>
 </p>
 
