@@ -35,6 +35,6 @@
 </br>
 
 <p align='center'>
-    <img src="https://github-readme-stats.vercel.app/api?username=pawelhermansdorfer&theme=dark&show_icons=true&line_height=5"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=pawelhermansdorfer&theme=dark&show_icons=true&line_height=30"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawelhermansdorfer&theme=dark"/>
 </p>
