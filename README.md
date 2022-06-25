@@ -14,6 +14,8 @@
   </a>
 </p>
 
+</br>
+
 ## 🧰 Tools and frameworks:
 <p align="center">
   <a href="https://skillicons.dev">
@@ -34,6 +36,7 @@
 
 </br>
 
+## 📈 Stats:
 <p align='center'>
     <img src="https://github-readme-stats.vercel.app/api?username=pawelhermansdorfer&theme=dark&show_icons=true&line_height=26.5"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawelhermansdorfer&theme=dark"/>
