@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Spell checker
+- 🔭 I’m currently working on Path Finding Visualizer
 - 🌱 I’m currently learning Data Science in Python and R
 - 👯 I’m looking to collaborate with other content creators
 - 📜 Quote of the year: "life has no ctrl-z"
@@ -10,7 +10,7 @@
 ## 💬 Languages:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cs,js,html" />
+    <img src="https://skillicons.dev/icons?i=py,sql,cs,js" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 ## 🧰 Tools and frameworks:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,unity,github,stackoverflow,flask,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=vscode,unity,github,stackoverflow,flask" />
   </a>
 </p>
 
